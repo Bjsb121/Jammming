@@ -1,5 +1,5 @@
 const clientId = '961cddfd777b493b8134550206e3c2b9';
-const redirectUri = 'http://localhost:3000/';
+const redirectUri = 'http://various-shoe.surge.sh/ ';
 
 let accessToken;
 
